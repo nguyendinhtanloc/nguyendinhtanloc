@@ -7,7 +7,7 @@
   <a href="README.vi.md"><img src="https://img.shields.io/badge/Ngôn%20ngữ-Tiếng%20Việt-21262D?style=for-the-badge" alt="Tiếng Việt"></a>
   <br><br>
   <a href="mailto:ndtl05062005@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-ndtl05062005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/l%E1%BB%99c-nguy%E1%BB%85n-492944448/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Đình%20Tấn%20Lộc-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/nguyendinhtanloc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Nguyễn%20Đình%20Tấn%20Lộc-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://github.com/nguyendinhtanloc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-nguyendinhtanloc-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
