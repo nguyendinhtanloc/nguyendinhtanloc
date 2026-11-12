@@ -144,10 +144,7 @@ flowchart LR
 
 <div align="center">
   <a href="#github-activity">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyendinhtanloc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="#github-activity">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendinhtanloc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=nguyendinhtanloc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
