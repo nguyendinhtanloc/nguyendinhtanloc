@@ -66,4 +66,4 @@ Uncertainty-based active learning tends to pick familiar daytime images and miss
 
 - Email: [ndtl05062005@gmail.com](mailto:ndtl05062005@gmail.com)
 - GitHub: [@nguyendinhtanloc](https://github.com/nguyendinhtanloc)
-- LinkedIn: [your link]
+- LinkedIn: [Nguyễn Đình Tấn Lộc](https://www.linkedin.com/in/...)
