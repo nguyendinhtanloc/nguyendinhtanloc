@@ -66,4 +66,4 @@ Active learning theo độ bất định thường chọn các ảnh quen thuộ
 
 - Email: [ndtl05062005@gmail.com](mailto:ndtl05062005@gmail.com)
 - GitHub: [@nguyendinhtanloc](https://github.com/nguyendinhtanloc)
-- LinkedIn: [liên kết của bạn]
+- LinkedIn: [Nguyễn Đình Tấn Lộc](https://www.linkedin.com/in/...)
